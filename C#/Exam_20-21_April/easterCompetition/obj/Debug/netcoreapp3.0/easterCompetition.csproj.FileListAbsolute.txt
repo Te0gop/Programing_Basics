@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\bin\Debug\netcoreapp3.0\easterCompetition.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\obj\Debug\netcoreapp3.0\easterCompetition.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\obj\Debug\netcoreapp3.0\easterCompetition.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\obj\Debug\netcoreapp3.0\easterCompetition.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\obj\Debug\netcoreapp3.0\easterCompetition.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterCompetition\obj\Debug\netcoreapp3.0\easterCompetition.pdb

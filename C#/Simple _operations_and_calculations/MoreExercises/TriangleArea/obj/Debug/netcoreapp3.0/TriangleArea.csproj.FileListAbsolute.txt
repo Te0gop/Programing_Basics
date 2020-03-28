@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.exe
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.deps.json
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.dll
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\bin\Debug\netcoreapp3.0\TriangleArea.pdb
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\obj\Debug\netcoreapp3.0\TriangleArea.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\obj\Debug\netcoreapp3.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\obj\Debug\netcoreapp3.0\TriangleArea.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\obj\Debug\netcoreapp3.0\TriangleArea.dll
+C:\Users\Admin\source\repos\MoreExercises\TriangleArea\obj\Debug\netcoreapp3.0\TriangleArea.pdb

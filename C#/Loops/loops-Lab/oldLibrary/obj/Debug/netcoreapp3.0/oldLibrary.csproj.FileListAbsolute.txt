@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.exe
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.deps.json
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.dll
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\bin\Debug\netcoreapp3.0\oldLibrary.pdb
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\obj\Debug\netcoreapp3.0\oldLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\obj\Debug\netcoreapp3.0\oldLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\obj\Debug\netcoreapp3.0\oldLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\obj\Debug\netcoreapp3.0\oldLibrary.dll
+C:\Users\Admin\source\repos\loops-Lab\oldLibrary\obj\Debug\netcoreapp3.0\oldLibrary.pdb

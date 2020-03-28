@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.exe
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.deps.json
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.dll
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\bin\Debug\netcoreapp3.0\MariaAndNumbers.pdb
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\obj\Debug\netcoreapp3.0\MariaAndNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\obj\Debug\netcoreapp3.0\MariaAndNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\obj\Debug\netcoreapp3.0\MariaAndNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\obj\Debug\netcoreapp3.0\MariaAndNumbers.dll
+C:\Users\Admin\source\repos\MariaAndNumbers\MariaAndNumbers\obj\Debug\netcoreapp3.0\MariaAndNumbers.pdb

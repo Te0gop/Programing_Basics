@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "bachelorParty-04/1.0.0": {
+        "runtime": {
+          "bachelorParty-04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bachelorParty-04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

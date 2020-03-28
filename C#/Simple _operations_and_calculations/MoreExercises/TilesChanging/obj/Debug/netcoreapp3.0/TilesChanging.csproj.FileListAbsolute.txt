@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.exe
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.deps.json
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.dll
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\bin\Debug\netcoreapp3.0\TilesChanging.pdb
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\obj\Debug\netcoreapp3.0\TilesChanging.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\obj\Debug\netcoreapp3.0\TilesChanging.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\obj\Debug\netcoreapp3.0\TilesChanging.dll
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\obj\Debug\netcoreapp3.0\TilesChanging.pdb
+C:\Users\Admin\source\repos\MoreExercises\TilesChanging\obj\Debug\netcoreapp3.0\TilesChanging.csprojAssemblyReference.cache

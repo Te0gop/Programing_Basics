@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.exe
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.deps.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.runtimeconfig.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.dll
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\bin\Debug\netcoreapp3.0\backToThePast-01.pdb
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\obj\Debug\netcoreapp3.0\backToThePast-01.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\obj\Debug\netcoreapp3.0\backToThePast-01.AssemblyInfo.cs
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\obj\Debug\netcoreapp3.0\backToThePast-01.dll
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\obj\Debug\netcoreapp3.0\backToThePast-01.pdb
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\backToThePast\obj\Debug\netcoreapp3.0\backToThePast-01.csprojAssemblyReference.cache

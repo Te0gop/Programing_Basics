@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.exe
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.deps.json
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.dll
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\bin\Debug\netcoreapp3.0\exampleVariable.pdb
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\obj\Debug\netcoreapp3.0\exampleVariable.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\obj\Debug\netcoreapp3.0\exampleVariable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\obj\Debug\netcoreapp3.0\exampleVariable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\obj\Debug\netcoreapp3.0\exampleVariable.dll
+C:\Users\Admin\source\repos\Simple-operation-and-calculations\exampleVariable\obj\Debug\netcoreapp3.0\exampleVariable.pdb

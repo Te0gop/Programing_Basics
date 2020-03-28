@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.exe
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.deps.json
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.dll
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.pdb
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.dll
+C:\Users\Admin\source\repos\SundayExercises\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.pdb

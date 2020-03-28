@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\obj\Debug\netcoreapp3.0\multiplayTable-06.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\obj\Debug\netcoreapp3.0\multiplayTable-06.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.exe
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.deps.json
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.runtimeconfig.json
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.dll
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\bin\Debug\netcoreapp3.0\multiplayTable-06.pdb
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\obj\Debug\netcoreapp3.0\multiplayTable-06.dll
+C:\Users\Admin\source\repos\SampleExam-12-December\multiplayTable-06\obj\Debug\netcoreapp3.0\multiplayTable-06.pdb

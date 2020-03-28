@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.exe
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.deps.json
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.dll
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\bin\Debug\netcoreapp3.0\walkingTry.pdb
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\obj\Debug\netcoreapp3.0\walkingTry.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\obj\Debug\netcoreapp3.0\walkingTry.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\obj\Debug\netcoreapp3.0\walkingTry.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\obj\Debug\netcoreapp3.0\walkingTry.dll
+C:\Users\Admin\source\repos\loops-Lab\walkingTry\obj\Debug\netcoreapp3.0\walkingTry.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.exe
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.deps.json
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.dll
+C:\Users\Admin\source\repos\while-Loop\ff\bin\Debug\netcoreapp3.0\ff.pdb
+C:\Users\Admin\source\repos\while-Loop\ff\obj\Debug\netcoreapp3.0\ff.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\ff\obj\Debug\netcoreapp3.0\ff.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\ff\obj\Debug\netcoreapp3.0\ff.dll
+C:\Users\Admin\source\repos\while-Loop\ff\obj\Debug\netcoreapp3.0\ff.pdb

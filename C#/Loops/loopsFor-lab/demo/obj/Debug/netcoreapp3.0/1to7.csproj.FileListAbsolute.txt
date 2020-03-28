@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.exe
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.deps.json
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.runtimeconfig.json
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.dll
+C:\Users\Admin\source\repos\loopsFor-lab\demo\bin\Debug\netcoreapp3.0\1to7.pdb
+C:\Users\Admin\source\repos\loopsFor-lab\demo\obj\Debug\netcoreapp3.0\1to7.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loopsFor-lab\demo\obj\Debug\netcoreapp3.0\1to7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loopsFor-lab\demo\obj\Debug\netcoreapp3.0\1to7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loopsFor-lab\demo\obj\Debug\netcoreapp3.0\1to7.dll
+C:\Users\Admin\source\repos\loopsFor-lab\demo\obj\Debug\netcoreapp3.0\1to7.pdb

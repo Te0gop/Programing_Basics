@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.exe
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.deps.json
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\Admin\source\repos\SundayExercises\Exercises\bin\Debug\netcoreapp3.0\USDtoBGN.pdb
+C:\Users\Admin\source\repos\SundayExercises\Exercises\obj\Debug\netcoreapp3.0\USDtoBGN.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SundayExercises\Exercises\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\Exercises\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\Exercises\obj\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\Admin\source\repos\SundayExercises\Exercises\obj\Debug\netcoreapp3.0\USDtoBGN.pdb

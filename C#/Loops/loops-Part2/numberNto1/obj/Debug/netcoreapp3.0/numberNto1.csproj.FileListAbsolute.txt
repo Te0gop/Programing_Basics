@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.exe
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.deps.json
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.dll
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\bin\Debug\netcoreapp3.0\numberNto1.pdb
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\obj\Debug\netcoreapp3.0\numberNto1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\obj\Debug\netcoreapp3.0\numberNto1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\obj\Debug\netcoreapp3.0\numberNto1.dll
+C:\Users\Admin\source\repos\loops-Part2\numberNto1\obj\Debug\netcoreapp3.0\numberNto1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.exe
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.deps.json
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.dll
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\bin\Debug\netcoreapp3.0\balanceExercise.pdb
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\obj\Debug\netcoreapp3.0\balanceExercise.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\obj\Debug\netcoreapp3.0\balanceExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\obj\Debug\netcoreapp3.0\balanceExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\obj\Debug\netcoreapp3.0\balanceExercise.dll
+C:\Users\Admin\source\repos\while-Loop\balanceExercise\obj\Debug\netcoreapp3.0\balanceExercise.pdb

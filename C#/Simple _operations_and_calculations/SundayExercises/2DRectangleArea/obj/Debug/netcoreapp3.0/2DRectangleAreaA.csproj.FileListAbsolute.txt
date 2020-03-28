@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.exe
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.deps.json
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.dll
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\bin\Debug\netcoreapp3.0\2DRectangleAreaA.pdb
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\obj\Debug\netcoreapp3.0\2DRectangleAreaA.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\obj\Debug\netcoreapp3.0\2DRectangleAreaA.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\obj\Debug\netcoreapp3.0\2DRectangleAreaA.dll
+C:\Users\Admin\source\repos\SundayExercises\2DRectangleArea\obj\Debug\netcoreapp3.0\2DRectangleAreaA.pdb

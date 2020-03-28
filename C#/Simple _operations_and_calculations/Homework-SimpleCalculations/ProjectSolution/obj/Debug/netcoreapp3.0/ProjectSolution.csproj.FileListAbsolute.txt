@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\bin\Debug\netcoreapp3.0\ProjectSolution.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\obj\Debug\netcoreapp3.0\ProjectSolution.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\obj\Debug\netcoreapp3.0\ProjectSolution.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\obj\Debug\netcoreapp3.0\ProjectSolution.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\ProjectSolution\obj\Debug\netcoreapp3.0\ProjectSolution.pdb

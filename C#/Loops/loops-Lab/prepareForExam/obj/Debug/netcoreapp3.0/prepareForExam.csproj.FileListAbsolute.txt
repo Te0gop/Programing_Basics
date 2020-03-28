@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.exe
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.deps.json
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.dll
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\bin\Debug\netcoreapp3.0\prepareForExam.pdb
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\obj\Debug\netcoreapp3.0\prepareForExam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\obj\Debug\netcoreapp3.0\prepareForExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\obj\Debug\netcoreapp3.0\prepareForExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\obj\Debug\netcoreapp3.0\prepareForExam.dll
+C:\Users\Admin\source\repos\loops-Lab\prepareForExam\obj\Debug\netcoreapp3.0\prepareForExam.pdb

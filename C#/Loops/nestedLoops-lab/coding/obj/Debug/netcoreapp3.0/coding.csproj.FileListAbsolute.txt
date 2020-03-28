@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.exe
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.deps.json
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.runtimeconfig.json
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\bin\Debug\netcoreapp3.0\coding.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\obj\Debug\netcoreapp3.0\coding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\obj\Debug\netcoreapp3.0\coding.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\obj\Debug\netcoreapp3.0\coding.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\obj\Debug\netcoreapp3.0\coding.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\coding\obj\Debug\netcoreapp3.0\coding.csprojAssemblyReference.cache

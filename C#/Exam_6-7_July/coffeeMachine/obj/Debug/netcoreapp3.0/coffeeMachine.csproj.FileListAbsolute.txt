@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.exe
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.dll
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\bin\Debug\netcoreapp3.0\coffeeMachine.pdb
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\obj\Debug\netcoreapp3.0\coffeeMachine.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\obj\Debug\netcoreapp3.0\coffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\obj\Debug\netcoreapp3.0\coffeeMachine.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\obj\Debug\netcoreapp3.0\coffeeMachine.dll
+C:\Users\Admin\source\repos\Exam6-7july\coffeeMachine\obj\Debug\netcoreapp3.0\coffeeMachine.pdb

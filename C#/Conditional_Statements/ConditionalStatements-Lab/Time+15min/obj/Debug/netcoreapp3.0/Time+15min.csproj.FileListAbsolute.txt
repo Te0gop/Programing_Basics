@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.exe
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\bin\Debug\netcoreapp3.0\Time+15min.pdb
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\obj\Debug\netcoreapp3.0\Time+15min.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\obj\Debug\netcoreapp3.0\Time+15min.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\obj\Debug\netcoreapp3.0\Time+15min.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\obj\Debug\netcoreapp3.0\Time+15min.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\Time+15min\obj\Debug\netcoreapp3.0\Time+15min.pdb

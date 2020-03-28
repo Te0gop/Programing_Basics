@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.exe
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.deps.json
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.runtimeconfig.json
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.dll
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\bin\Debug\netcoreapp3.0\movieRating-05.pdb
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\obj\Debug\netcoreapp3.0\movieRating-05.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\obj\Debug\netcoreapp3.0\movieRating-05.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\obj\Debug\netcoreapp3.0\movieRating-05.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\obj\Debug\netcoreapp3.0\movieRating-05.dll
+C:\Users\Admin\source\repos\prepareForExam\movieRating-05\obj\Debug\netcoreapp3.0\movieRating-05.pdb

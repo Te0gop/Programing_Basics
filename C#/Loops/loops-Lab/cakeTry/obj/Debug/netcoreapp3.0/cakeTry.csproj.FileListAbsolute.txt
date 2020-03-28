@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.exe
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.deps.json
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.dll
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\bin\Debug\netcoreapp3.0\cakeTry.pdb
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\obj\Debug\netcoreapp3.0\cakeTry.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\obj\Debug\netcoreapp3.0\cakeTry.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\obj\Debug\netcoreapp3.0\cakeTry.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\obj\Debug\netcoreapp3.0\cakeTry.dll
+C:\Users\Admin\source\repos\loops-Lab\cakeTry\obj\Debug\netcoreapp3.0\cakeTry.pdb

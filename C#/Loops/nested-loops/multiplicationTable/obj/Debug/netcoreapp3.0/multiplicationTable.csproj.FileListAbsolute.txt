@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.exe
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.deps.json
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.runtimeconfig.json
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.dll
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\bin\Debug\netcoreapp3.0\multiplicationTable.pdb
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\obj\Debug\netcoreapp3.0\multiplicationTable.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\obj\Debug\netcoreapp3.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\obj\Debug\netcoreapp3.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\obj\Debug\netcoreapp3.0\multiplicationTable.dll
+C:\Users\Admin\source\repos\nested-loops\multiplicationTable\obj\Debug\netcoreapp3.0\multiplicationTable.pdb

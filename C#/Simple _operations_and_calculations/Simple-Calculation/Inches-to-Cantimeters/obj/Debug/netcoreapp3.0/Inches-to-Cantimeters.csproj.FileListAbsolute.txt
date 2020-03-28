@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.exe
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.deps.json
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\bin\Debug\netcoreapp3.0\Inches-to-Cantimeters.pdb
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\obj\Debug\netcoreapp3.0\Inches-to-Cantimeters.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\obj\Debug\netcoreapp3.0\Inches-to-Cantimeters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\obj\Debug\netcoreapp3.0\Inches-to-Cantimeters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\obj\Debug\netcoreapp3.0\Inches-to-Cantimeters.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Inches-to-Cantimeters\obj\Debug\netcoreapp3.0\Inches-to-Cantimeters.pdb

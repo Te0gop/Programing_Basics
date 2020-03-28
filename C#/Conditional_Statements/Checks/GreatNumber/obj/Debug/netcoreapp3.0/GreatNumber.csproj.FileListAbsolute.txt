@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.exe
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.deps.json
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.dll
+C:\Users\Admin\source\repos\Checks\GreatNumber\bin\Debug\netcoreapp3.0\GreatNumber.pdb
+C:\Users\Admin\source\repos\Checks\GreatNumber\obj\Debug\netcoreapp3.0\GreatNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Checks\GreatNumber\obj\Debug\netcoreapp3.0\GreatNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Checks\GreatNumber\obj\Debug\netcoreapp3.0\GreatNumber.dll
+C:\Users\Admin\source\repos\Checks\GreatNumber\obj\Debug\netcoreapp3.0\GreatNumber.pdb

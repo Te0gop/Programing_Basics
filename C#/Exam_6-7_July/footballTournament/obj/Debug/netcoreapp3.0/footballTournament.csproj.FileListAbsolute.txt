@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.exe
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.dll
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\bin\Debug\netcoreapp3.0\footballTournament.pdb
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\obj\Debug\netcoreapp3.0\footballTournament.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\obj\Debug\netcoreapp3.0\footballTournament.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\obj\Debug\netcoreapp3.0\footballTournament.dll
+C:\Users\Admin\source\repos\Exam6-7july\footballTournament\obj\Debug\netcoreapp3.0\footballTournament.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.exe
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.deps.json
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\bin\Debug\netcoreapp3.0\Concatenate-data.pdb
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\obj\Debug\netcoreapp3.0\Concatenate-data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\obj\Debug\netcoreapp3.0\Concatenate-data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\obj\Debug\netcoreapp3.0\Concatenate-data.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Concatenate-data\obj\Debug\netcoreapp3.0\Concatenate-data.pdb

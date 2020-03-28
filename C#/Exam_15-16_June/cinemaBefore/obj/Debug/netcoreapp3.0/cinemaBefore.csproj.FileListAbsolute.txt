@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.exe
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.dll
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\bin\Debug\netcoreapp3.0\cinemaBefore.pdb
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\obj\Debug\netcoreapp3.0\cinemaBefore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\obj\Debug\netcoreapp3.0\cinemaBefore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\obj\Debug\netcoreapp3.0\cinemaBefore.dll
+C:\Users\Admin\source\repos\Exam15-16June\cinemaBefore\obj\Debug\netcoreapp3.0\cinemaBefore.pdb

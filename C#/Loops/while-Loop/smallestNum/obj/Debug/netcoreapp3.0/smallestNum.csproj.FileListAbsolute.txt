@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.exe
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.deps.json
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.dll
+C:\Users\Admin\source\repos\while-Loop\smallestNum\bin\Debug\netcoreapp3.0\smallestNum.pdb
+C:\Users\Admin\source\repos\while-Loop\smallestNum\obj\Debug\netcoreapp3.0\smallestNum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\smallestNum\obj\Debug\netcoreapp3.0\smallestNum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\smallestNum\obj\Debug\netcoreapp3.0\smallestNum.dll
+C:\Users\Admin\source\repos\while-Loop\smallestNum\obj\Debug\netcoreapp3.0\smallestNum.pdb

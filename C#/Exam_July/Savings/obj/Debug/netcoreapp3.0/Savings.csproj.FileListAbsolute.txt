@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.exe
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.deps.json
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.dll
+C:\Users\Admin\source\repos\ExamJuly\Savings\bin\Debug\netcoreapp3.0\Savings.pdb
+C:\Users\Admin\source\repos\ExamJuly\Savings\obj\Debug\netcoreapp3.0\Savings.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamJuly\Savings\obj\Debug\netcoreapp3.0\Savings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\Savings\obj\Debug\netcoreapp3.0\Savings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\Savings\obj\Debug\netcoreapp3.0\Savings.dll
+C:\Users\Admin\source\repos\ExamJuly\Savings\obj\Debug\netcoreapp3.0\Savings.pdb

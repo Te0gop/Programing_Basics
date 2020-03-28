@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.exe
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\bin\Debug\netcoreapp3.0\GodzilaVsKong.pdb
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\obj\Debug\netcoreapp3.0\GodzilaVsKong.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\obj\Debug\netcoreapp3.0\GodzilaVsKong.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\obj\Debug\netcoreapp3.0\GodzilaVsKong.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\obj\Debug\netcoreapp3.0\GodzilaVsKong.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\GodzilaVsKong\obj\Debug\netcoreapp3.0\GodzilaVsKong.pdb

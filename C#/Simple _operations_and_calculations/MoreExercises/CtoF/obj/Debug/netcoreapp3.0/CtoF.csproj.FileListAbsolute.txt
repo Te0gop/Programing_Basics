@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.exe
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.deps.json
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.dll
+C:\Users\Admin\source\repos\MoreExercises\CtoF\bin\Debug\netcoreapp3.0\CtoF.pdb
+C:\Users\Admin\source\repos\MoreExercises\CtoF\obj\Debug\netcoreapp3.0\CtoF.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\CtoF\obj\Debug\netcoreapp3.0\CtoF.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\CtoF\obj\Debug\netcoreapp3.0\CtoF.dll
+C:\Users\Admin\source\repos\MoreExercises\CtoF\obj\Debug\netcoreapp3.0\CtoF.pdb

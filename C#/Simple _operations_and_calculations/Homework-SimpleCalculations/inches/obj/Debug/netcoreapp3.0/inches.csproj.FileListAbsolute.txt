@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\bin\Debug\netcoreapp3.0\inches.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\obj\Debug\netcoreapp3.0\inches.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\obj\Debug\netcoreapp3.0\inches.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\obj\Debug\netcoreapp3.0\inches.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\inches\obj\Debug\netcoreapp3.0\inches.pdb

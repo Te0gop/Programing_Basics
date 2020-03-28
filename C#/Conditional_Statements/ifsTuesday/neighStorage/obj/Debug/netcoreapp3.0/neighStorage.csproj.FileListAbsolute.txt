@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.exe
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.dll
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\bin\Debug\netcoreapp3.0\neighStorage.pdb
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\obj\Debug\netcoreapp3.0\neighStorage.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\obj\Debug\netcoreapp3.0\neighStorage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\obj\Debug\netcoreapp3.0\neighStorage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\obj\Debug\netcoreapp3.0\neighStorage.dll
+C:\Users\Admin\source\repos\ifsTuesday\neighStorage\obj\Debug\netcoreapp3.0\neighStorage.pdb

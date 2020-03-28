@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\bin\Debug\netcoreapp3.0\Square.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\obj\Debug\netcoreapp3.0\Square.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\obj\Debug\netcoreapp3.0\Square.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\obj\Debug\netcoreapp3.0\Square.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Square\obj\Debug\netcoreapp3.0\Square.pdb

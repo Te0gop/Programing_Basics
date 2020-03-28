@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.exe
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.deps.json
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.dll
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\bin\Debug\netcoreapp3.0\luggageTax.pdb
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\obj\Debug\netcoreapp3.0\luggageTax.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\obj\Debug\netcoreapp3.0\luggageTax.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\obj\Debug\netcoreapp3.0\luggageTax.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\obj\Debug\netcoreapp3.0\luggageTax.dll
+C:\Users\Admin\source\repos\ExamJuly\luggageTax\obj\Debug\netcoreapp3.0\luggageTax.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\seats\obj\Debug\netcoreapp3.0\seats.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\seats\obj\Debug\netcoreapp3.0\seats.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.exe
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.deps.json
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.dll
+C:\Users\Admin\source\repos\ExamJuly\seats\bin\Debug\netcoreapp3.0\seats.pdb
+C:\Users\Admin\source\repos\ExamJuly\seats\obj\Debug\netcoreapp3.0\seats.dll
+C:\Users\Admin\source\repos\ExamJuly\seats\obj\Debug\netcoreapp3.0\seats.pdb
+C:\Users\Admin\source\repos\ExamJuly\seats\obj\Debug\netcoreapp3.0\seats.csprojAssemblyReference.cache

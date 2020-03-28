@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.exe
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.dll
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\bin\Debug\netcoreapp3.0\filmPremiere.pdb
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\obj\Debug\netcoreapp3.0\filmPremiere.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\obj\Debug\netcoreapp3.0\filmPremiere.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\obj\Debug\netcoreapp3.0\filmPremiere.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\obj\Debug\netcoreapp3.0\filmPremiere.dll
+C:\Users\Admin\source\repos\Exam15-16June\filmPremiere\obj\Debug\netcoreapp3.0\filmPremiere.pdb

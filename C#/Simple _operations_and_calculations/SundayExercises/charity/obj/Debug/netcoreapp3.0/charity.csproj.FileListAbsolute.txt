@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.exe
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.deps.json
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.dll
+C:\Users\Admin\source\repos\SundayExercises\charity\bin\Debug\netcoreapp3.0\charity.pdb
+C:\Users\Admin\source\repos\SundayExercises\charity\obj\Debug\netcoreapp3.0\charity.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\charity\obj\Debug\netcoreapp3.0\charity.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\charity\obj\Debug\netcoreapp3.0\charity.dll
+C:\Users\Admin\source\repos\SundayExercises\charity\obj\Debug\netcoreapp3.0\charity.pdb
+C:\Users\Admin\source\repos\SundayExercises\charity\obj\Debug\netcoreapp3.0\charity.csprojAssemblyReference.cache

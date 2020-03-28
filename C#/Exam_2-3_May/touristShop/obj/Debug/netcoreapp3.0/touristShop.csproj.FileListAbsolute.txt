@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.exe
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.dll
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\bin\Debug\netcoreapp3.0\touristShop.pdb
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\obj\Debug\netcoreapp3.0\touristShop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\obj\Debug\netcoreapp3.0\touristShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\obj\Debug\netcoreapp3.0\touristShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\obj\Debug\netcoreapp3.0\touristShop.dll
+C:\Users\Admin\source\repos\Exam2-3May\touristShop\obj\Debug\netcoreapp3.0\touristShop.pdb

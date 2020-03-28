@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\var\var\obj\Debug\netcoreapp3.0\var.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\var\var\obj\Debug\netcoreapp3.0\var.AssemblyInfo.cs
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.exe
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.deps.json
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.runtimeconfig.json
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.dll
+C:\Users\Admin\source\repos\var\var\bin\Debug\netcoreapp3.0\var.pdb
+C:\Users\Admin\source\repos\var\var\obj\Debug\netcoreapp3.0\var.dll
+C:\Users\Admin\source\repos\var\var\obj\Debug\netcoreapp3.0\var.pdb

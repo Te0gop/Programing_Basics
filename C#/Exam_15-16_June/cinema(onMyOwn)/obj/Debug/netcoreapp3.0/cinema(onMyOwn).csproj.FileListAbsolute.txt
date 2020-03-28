@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).exe
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).deps.json
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).dll
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\bin\Debug\netcoreapp3.0\cinema(onMyOwn).pdb
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\obj\Debug\netcoreapp3.0\cinema(onMyOwn).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\obj\Debug\netcoreapp3.0\cinema(onMyOwn).AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\obj\Debug\netcoreapp3.0\cinema(onMyOwn).dll
+C:\Users\Admin\source\repos\Exam15-16June\cinema(onMyOwn)\obj\Debug\netcoreapp3.0\cinema(onMyOwn).pdb

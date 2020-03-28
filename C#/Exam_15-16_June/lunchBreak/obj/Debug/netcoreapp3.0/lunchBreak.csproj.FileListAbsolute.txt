@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.exe
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.dll
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\bin\Debug\netcoreapp3.0\lunchBreak.pdb
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\obj\Debug\netcoreapp3.0\lunchBreak.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\obj\Debug\netcoreapp3.0\lunchBreak.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\obj\Debug\netcoreapp3.0\lunchBreak.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\obj\Debug\netcoreapp3.0\lunchBreak.dll
+C:\Users\Admin\source\repos\Exam15-16June\lunchBreak\obj\Debug\netcoreapp3.0\lunchBreak.pdb

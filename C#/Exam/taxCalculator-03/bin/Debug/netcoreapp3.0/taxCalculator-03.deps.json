@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "taxCalculator-03/1.0.0": {
+        "runtime": {
+          "taxCalculator-03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "taxCalculator-03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

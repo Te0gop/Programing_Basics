@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.exe
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.deps.json
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.dll
+C:\Users\Admin\source\repos\while-Loop\moveTry\bin\Debug\netcoreapp3.0\moveTry.pdb
+C:\Users\Admin\source\repos\while-Loop\moveTry\obj\Debug\netcoreapp3.0\moveTry.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\while-Loop\moveTry\obj\Debug\netcoreapp3.0\moveTry.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\moveTry\obj\Debug\netcoreapp3.0\moveTry.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\moveTry\obj\Debug\netcoreapp3.0\moveTry.dll
+C:\Users\Admin\source\repos\while-Loop\moveTry\obj\Debug\netcoreapp3.0\moveTry.pdb

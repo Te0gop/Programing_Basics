@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.exe
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.deps.json
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.runtimeconfig.json
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.dll
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\bin\Debug\netcoreapp3.0\sushiTime.pdb
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\obj\Debug\netcoreapp3.0\sushiTime.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\obj\Debug\netcoreapp3.0\sushiTime.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\obj\Debug\netcoreapp3.0\sushiTime.dll
+C:\Users\Admin\source\repos\SampleExam-12-December\sushiTime\obj\Debug\netcoreapp3.0\sushiTime.pdb

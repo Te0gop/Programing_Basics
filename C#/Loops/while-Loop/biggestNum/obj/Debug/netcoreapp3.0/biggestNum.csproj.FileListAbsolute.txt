@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.exe
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.deps.json
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.dll
+C:\Users\Admin\source\repos\while-Loop\biggestNum\bin\Debug\netcoreapp3.0\biggestNum.pdb
+C:\Users\Admin\source\repos\while-Loop\biggestNum\obj\Debug\netcoreapp3.0\biggestNum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\biggestNum\obj\Debug\netcoreapp3.0\biggestNum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\biggestNum\obj\Debug\netcoreapp3.0\biggestNum.dll
+C:\Users\Admin\source\repos\while-Loop\biggestNum\obj\Debug\netcoreapp3.0\biggestNum.pdb
+C:\Users\Admin\source\repos\while-Loop\biggestNum\obj\Debug\netcoreapp3.0\biggestNum.csprojAssemblyReference.cache

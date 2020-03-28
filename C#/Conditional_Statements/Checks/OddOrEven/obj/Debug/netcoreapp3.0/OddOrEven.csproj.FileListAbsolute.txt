@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.exe
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.deps.json
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.runtimeconfig.json
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.dll
+C:\Users\Admin\source\repos\Checks\OddOrEven\bin\Debug\netcoreapp3.0\OddOrEven.pdb
+C:\Users\Admin\source\repos\Checks\OddOrEven\obj\Debug\netcoreapp3.0\OddOrEven.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Checks\OddOrEven\obj\Debug\netcoreapp3.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Checks\OddOrEven\obj\Debug\netcoreapp3.0\OddOrEven.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Checks\OddOrEven\obj\Debug\netcoreapp3.0\OddOrEven.dll
+C:\Users\Admin\source\repos\Checks\OddOrEven\obj\Debug\netcoreapp3.0\OddOrEven.pdb

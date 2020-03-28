@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.exe
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.deps.json
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.runtimeconfig.json
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\bin\Debug\netcoreapp3.0\specialNumbers-07.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\obj\Debug\netcoreapp3.0\specialNumbers-07.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\obj\Debug\netcoreapp3.0\specialNumbers-07.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\obj\Debug\netcoreapp3.0\specialNumbers-07.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\specialNumbers\obj\Debug\netcoreapp3.0\specialNumbers-07.pdb

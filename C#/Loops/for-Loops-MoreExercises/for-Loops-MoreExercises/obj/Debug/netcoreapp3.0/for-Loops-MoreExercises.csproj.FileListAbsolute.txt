@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.exe
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.deps.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.runtimeconfig.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.dll
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\bin\Debug\netcoreapp3.0\for-Loops-MoreExercises.pdb
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\obj\Debug\netcoreapp3.0\for-Loops-MoreExercises.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\obj\Debug\netcoreapp3.0\for-Loops-MoreExercises.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\obj\Debug\netcoreapp3.0\for-Loops-MoreExercises.AssemblyInfo.cs
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\obj\Debug\netcoreapp3.0\for-Loops-MoreExercises.dll
+C:\Users\Admin\source\repos\for-Loops-MoreExercises\for-Loops-MoreExercises\obj\Debug\netcoreapp3.0\for-Loops-MoreExercises.pdb

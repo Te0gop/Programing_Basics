@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.exe
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.dll
+C:\Users\Admin\source\repos\ifsTuesday\demo\bin\Debug\netcoreapp3.0\demo.pdb
+C:\Users\Admin\source\repos\ifsTuesday\demo\obj\Debug\netcoreapp3.0\demo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ifsTuesday\demo\obj\Debug\netcoreapp3.0\demo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\demo\obj\Debug\netcoreapp3.0\demo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\demo\obj\Debug\netcoreapp3.0\demo.dll
+C:\Users\Admin\source\repos\ifsTuesday\demo\obj\Debug\netcoreapp3.0\demo.pdb

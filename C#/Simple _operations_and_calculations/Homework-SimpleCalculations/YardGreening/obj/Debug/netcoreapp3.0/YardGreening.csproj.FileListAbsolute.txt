@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\bin\Debug\netcoreapp3.0\YardGreening.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\YardGreening\obj\Debug\netcoreapp3.0\YardGreening.pdb

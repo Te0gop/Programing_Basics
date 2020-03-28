@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.exe
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.deps.json
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.runtimeconfig.json
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.dll
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\bin\Debug\netcoreapp3.0\cinemaTickets.pdb
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\obj\Debug\netcoreapp3.0\cinemaTickets.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\obj\Debug\netcoreapp3.0\cinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\obj\Debug\netcoreapp3.0\cinemaTickets.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\obj\Debug\netcoreapp3.0\cinemaTickets.dll
+C:\Users\Admin\source\repos\nested-loops\cinemaTickets\obj\Debug\netcoreapp3.0\cinemaTickets.pdb

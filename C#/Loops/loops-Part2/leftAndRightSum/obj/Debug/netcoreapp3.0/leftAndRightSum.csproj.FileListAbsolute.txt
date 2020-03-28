@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.exe
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.deps.json
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.dll
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\bin\Debug\netcoreapp3.0\leftAndRightSum.pdb
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\obj\Debug\netcoreapp3.0\leftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\obj\Debug\netcoreapp3.0\leftAndRightSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\obj\Debug\netcoreapp3.0\leftAndRightSum.dll
+C:\Users\Admin\source\repos\loops-Part2\leftAndRightSum\obj\Debug\netcoreapp3.0\leftAndRightSum.pdb

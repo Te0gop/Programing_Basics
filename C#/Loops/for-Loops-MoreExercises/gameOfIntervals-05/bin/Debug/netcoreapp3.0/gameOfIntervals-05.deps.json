@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "gameOfIntervals-05/1.0.0": {
+        "runtime": {
+          "gameOfIntervals-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gameOfIntervals-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

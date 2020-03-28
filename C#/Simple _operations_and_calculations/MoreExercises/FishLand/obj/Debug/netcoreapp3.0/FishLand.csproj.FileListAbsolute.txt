@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.exe
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.deps.json
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.dll
+C:\Users\Admin\source\repos\MoreExercises\FishLand\bin\Debug\netcoreapp3.0\FishLand.pdb
+C:\Users\Admin\source\repos\MoreExercises\FishLand\obj\Debug\netcoreapp3.0\FishLand.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\FishLand\obj\Debug\netcoreapp3.0\FishLand.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\FishLand\obj\Debug\netcoreapp3.0\FishLand.dll
+C:\Users\Admin\source\repos\MoreExercises\FishLand\obj\Debug\netcoreapp3.0\FishLand.pdb
+C:\Users\Admin\source\repos\MoreExercises\FishLand\obj\Debug\netcoreapp3.0\FishLand.csprojAssemblyReference.cache

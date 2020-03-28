@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\bin\Debug\netcoreapp3.0\easterGuests-02.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\obj\Debug\netcoreapp3.0\easterGuests-02.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\obj\Debug\netcoreapp3.0\easterGuests-02.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\obj\Debug\netcoreapp3.0\easterGuests-02.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterGuests-02\obj\Debug\netcoreapp3.0\easterGuests-02.pdb

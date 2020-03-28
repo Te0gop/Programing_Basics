@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.exe
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.deps.json
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.dll
+C:\Users\Admin\source\repos\SundayExercises\danceHall\bin\Debug\netcoreapp3.0\danceHall.pdb
+C:\Users\Admin\source\repos\SundayExercises\danceHall\obj\Debug\netcoreapp3.0\danceHall.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SundayExercises\danceHall\obj\Debug\netcoreapp3.0\danceHall.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\danceHall\obj\Debug\netcoreapp3.0\danceHall.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\danceHall\obj\Debug\netcoreapp3.0\danceHall.dll
+C:\Users\Admin\source\repos\SundayExercises\danceHall\obj\Debug\netcoreapp3.0\danceHall.pdb

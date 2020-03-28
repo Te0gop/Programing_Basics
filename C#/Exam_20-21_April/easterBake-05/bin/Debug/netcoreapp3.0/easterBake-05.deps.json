@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "easterBake-05/1.0.0": {
+        "runtime": {
+          "easterBake-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "easterBake-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

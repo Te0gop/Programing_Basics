@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.exe
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.deps.json
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.runtimeconfig.json
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.dll
+C:\Users\Admin\source\repos\Trap\Trap\bin\Debug\netcoreapp3.0\Trap.pdb
+C:\Users\Admin\source\repos\Trap\Trap\obj\Debug\netcoreapp3.0\Trap.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Trap\Trap\obj\Debug\netcoreapp3.0\Trap.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Trap\Trap\obj\Debug\netcoreapp3.0\Trap.dll
+C:\Users\Admin\source\repos\Trap\Trap\obj\Debug\netcoreapp3.0\Trap.pdb

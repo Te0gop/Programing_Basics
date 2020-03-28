@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.exe
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.deps.json
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.runtimeconfig.json
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.dll
+C:\Users\Admin\source\repos\beep\beep\bin\Debug\netcoreapp3.0\beep.pdb
+C:\Users\Admin\source\repos\beep\beep\obj\Debug\netcoreapp3.0\beep.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\beep\beep\obj\Debug\netcoreapp3.0\beep.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\beep\beep\obj\Debug\netcoreapp3.0\beep.AssemblyInfo.cs
+C:\Users\Admin\source\repos\beep\beep\obj\Debug\netcoreapp3.0\beep.dll
+C:\Users\Admin\source\repos\beep\beep\obj\Debug\netcoreapp3.0\beep.pdb

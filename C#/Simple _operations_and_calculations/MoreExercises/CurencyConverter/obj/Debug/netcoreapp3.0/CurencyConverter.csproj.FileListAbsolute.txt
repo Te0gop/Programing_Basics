@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.exe
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.deps.json
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.dll
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\bin\Debug\netcoreapp3.0\CurencyConverter.pdb
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\obj\Debug\netcoreapp3.0\CurencyConverter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\obj\Debug\netcoreapp3.0\CurencyConverter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\obj\Debug\netcoreapp3.0\CurencyConverter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\obj\Debug\netcoreapp3.0\CurencyConverter.dll
+C:\Users\Admin\source\repos\MoreExercises\CurencyConverter\obj\Debug\netcoreapp3.0\CurencyConverter.pdb

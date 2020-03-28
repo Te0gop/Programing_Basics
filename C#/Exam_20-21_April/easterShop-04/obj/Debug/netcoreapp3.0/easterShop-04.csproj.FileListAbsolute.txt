@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\bin\Debug\netcoreapp3.0\easterShop-04.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\obj\Debug\netcoreapp3.0\easterShop-04.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\obj\Debug\netcoreapp3.0\easterShop-04.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\obj\Debug\netcoreapp3.0\easterShop-04.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\obj\Debug\netcoreapp3.0\easterShop-04.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterShop-04\obj\Debug\netcoreapp3.0\easterShop-04.pdb

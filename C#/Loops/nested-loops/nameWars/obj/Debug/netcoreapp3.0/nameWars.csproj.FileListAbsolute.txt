@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.exe
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.deps.json
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.runtimeconfig.json
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.dll
+C:\Users\Admin\source\repos\nested-loops\nameWars\bin\Debug\netcoreapp3.0\nameWars.pdb
+C:\Users\Admin\source\repos\nested-loops\nameWars\obj\Debug\netcoreapp3.0\nameWars.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nested-loops\nameWars\obj\Debug\netcoreapp3.0\nameWars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nested-loops\nameWars\obj\Debug\netcoreapp3.0\nameWars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nested-loops\nameWars\obj\Debug\netcoreapp3.0\nameWars.dll
+C:\Users\Admin\source\repos\nested-loops\nameWars\obj\Debug\netcoreapp3.0\nameWars.pdb

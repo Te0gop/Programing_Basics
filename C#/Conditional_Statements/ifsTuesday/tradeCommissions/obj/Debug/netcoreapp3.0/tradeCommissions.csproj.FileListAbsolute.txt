@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.exe
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.dll
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\bin\Debug\netcoreapp3.0\tradeCommissions.pdb
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\obj\Debug\netcoreapp3.0\tradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\obj\Debug\netcoreapp3.0\tradeCommissions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\obj\Debug\netcoreapp3.0\tradeCommissions.dll
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\obj\Debug\netcoreapp3.0\tradeCommissions.pdb
+C:\Users\Admin\source\repos\ifsTuesday\tradeCommissions\obj\Debug\netcoreapp3.0\tradeCommissions.csprojAssemblyReference.cache

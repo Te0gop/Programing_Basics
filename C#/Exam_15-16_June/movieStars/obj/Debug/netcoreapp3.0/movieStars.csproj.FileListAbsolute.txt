@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.exe
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.dll
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\bin\Debug\netcoreapp3.0\movieStars.pdb
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\obj\Debug\netcoreapp3.0\movieStars.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\obj\Debug\netcoreapp3.0\movieStars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\obj\Debug\netcoreapp3.0\movieStars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\obj\Debug\netcoreapp3.0\movieStars.dll
+C:\Users\Admin\source\repos\Exam15-16June\movieStars\obj\Debug\netcoreapp3.0\movieStars.pdb

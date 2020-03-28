@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.exe
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.deps.json
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.runtimeconfig.json
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.dll
+C:\Users\Admin\source\repos\square\square\bin\Debug\netcoreapp3.0\square.pdb
+C:\Users\Admin\source\repos\square\square\obj\Debug\netcoreapp3.0\square.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\square\square\obj\Debug\netcoreapp3.0\square.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\square\square\obj\Debug\netcoreapp3.0\square.AssemblyInfo.cs
+C:\Users\Admin\source\repos\square\square\obj\Debug\netcoreapp3.0\square.dll
+C:\Users\Admin\source\repos\square\square\obj\Debug\netcoreapp3.0\square.pdb

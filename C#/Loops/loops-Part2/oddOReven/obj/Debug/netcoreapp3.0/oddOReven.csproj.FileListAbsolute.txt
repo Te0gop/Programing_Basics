@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.exe
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.deps.json
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.dll
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\bin\Debug\netcoreapp3.0\oddOReven.pdb
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\obj\Debug\netcoreapp3.0\oddOReven.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\obj\Debug\netcoreapp3.0\oddOReven.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\obj\Debug\netcoreapp3.0\oddOReven.dll
+C:\Users\Admin\source\repos\loops-Part2\oddOReven\obj\Debug\netcoreapp3.0\oddOReven.pdb

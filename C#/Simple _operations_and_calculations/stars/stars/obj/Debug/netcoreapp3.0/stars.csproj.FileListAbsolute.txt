@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.exe
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.deps.json
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.runtimeconfig.json
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.dll
+C:\Users\Admin\source\repos\stars\stars\bin\Debug\netcoreapp3.0\stars.pdb
+C:\Users\Admin\source\repos\stars\stars\obj\Debug\netcoreapp3.0\stars.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\stars\stars\obj\Debug\netcoreapp3.0\stars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\stars\stars\obj\Debug\netcoreapp3.0\stars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\stars\stars\obj\Debug\netcoreapp3.0\stars.dll
+C:\Users\Admin\source\repos\stars\stars\obj\Debug\netcoreapp3.0\stars.pdb

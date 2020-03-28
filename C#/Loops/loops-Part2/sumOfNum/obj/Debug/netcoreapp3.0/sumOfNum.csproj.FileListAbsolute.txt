@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.exe
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.deps.json
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.dll
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\bin\Debug\netcoreapp3.0\sumOfNum.pdb
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\obj\Debug\netcoreapp3.0\sumOfNum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\obj\Debug\netcoreapp3.0\sumOfNum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\obj\Debug\netcoreapp3.0\sumOfNum.dll
+C:\Users\Admin\source\repos\loops-Part2\sumOfNum\obj\Debug\netcoreapp3.0\sumOfNum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.exe
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.deps.json
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.runtimeconfig.json
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\bin\Debug\netcoreapp3.0\sumPrimeNon-03.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\obj\Debug\netcoreapp3.0\sumPrimeNon-03.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\obj\Debug\netcoreapp3.0\sumPrimeNon-03.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\obj\Debug\netcoreapp3.0\sumPrimeNon-03.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\sumPrimeNon-03\obj\Debug\netcoreapp3.0\sumPrimeNon-03.pdb

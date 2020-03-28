@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.exe
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.dll
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\bin\Debug\netcoreapp3.0\vetParking.pdb
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\obj\Debug\netcoreapp3.0\vetParking.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\obj\Debug\netcoreapp3.0\vetParking.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\obj\Debug\netcoreapp3.0\vetParking.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\obj\Debug\netcoreapp3.0\vetParking.dll
+C:\Users\Admin\source\repos\Exam2-3May\vetParking\obj\Debug\netcoreapp3.0\vetParking.pdb

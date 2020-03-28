@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.exe
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.deps.json
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\bin\Debug\netcoreapp3.0\Square-area.pdb
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\obj\Debug\netcoreapp3.0\Square-area.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\obj\Debug\netcoreapp3.0\Square-area.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\obj\Debug\netcoreapp3.0\Square-area.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Square-area\obj\Debug\netcoreapp3.0\Square-area.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Part2\aTOz\obj\Debug\netcoreapp3.0\aTOz.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Part2\aTOz\obj\Debug\netcoreapp3.0\aTOz.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\aTOz\obj\Debug\netcoreapp3.0\aTOz.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.exe
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.deps.json
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.dll
+C:\Users\Admin\source\repos\loops-Part2\aTOz\bin\Debug\netcoreapp3.0\aTOz.pdb
+C:\Users\Admin\source\repos\loops-Part2\aTOz\obj\Debug\netcoreapp3.0\aTOz.dll
+C:\Users\Admin\source\repos\loops-Part2\aTOz\obj\Debug\netcoreapp3.0\aTOz.pdb

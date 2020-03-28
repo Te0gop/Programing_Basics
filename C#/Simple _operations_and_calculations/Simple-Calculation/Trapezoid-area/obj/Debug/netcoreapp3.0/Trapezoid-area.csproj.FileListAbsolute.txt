@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.exe
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.deps.json
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\bin\Debug\netcoreapp3.0\Trapezoid-area.pdb
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\obj\Debug\netcoreapp3.0\Trapezoid-area.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\obj\Debug\netcoreapp3.0\Trapezoid-area.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\obj\Debug\netcoreapp3.0\Trapezoid-area.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Trapezoid-area\obj\Debug\netcoreapp3.0\Trapezoid-area.pdb

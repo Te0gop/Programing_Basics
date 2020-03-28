@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.exe
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\bin\Debug\netcoreapp3.0\BonusScore-1.pdb
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\obj\Debug\netcoreapp3.0\BonusScore-1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\obj\Debug\netcoreapp3.0\BonusScore-1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\obj\Debug\netcoreapp3.0\BonusScore-1.dll
+C:\Users\Admin\source\repos\ConditionalStatements-Lab\BonusScore-1\obj\Debug\netcoreapp3.0\BonusScore-1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.exe
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.deps.json
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.runtimeconfig.json
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.dll
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\bin\Debug\netcoreapp3.0\RadiansToDegree.pdb
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\obj\Debug\netcoreapp3.0\RadiansToDegree.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\obj\Debug\netcoreapp3.0\RadiansToDegree.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\obj\Debug\netcoreapp3.0\RadiansToDegree.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\obj\Debug\netcoreapp3.0\RadiansToDegree.dll
+C:\Users\Admin\source\repos\SundayExercises\RadiansToDegree\obj\Debug\netcoreapp3.0\RadiansToDegree.pdb

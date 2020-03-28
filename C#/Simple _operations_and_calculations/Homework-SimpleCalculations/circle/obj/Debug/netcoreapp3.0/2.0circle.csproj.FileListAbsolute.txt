@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\bin\Debug\netcoreapp3.0\2.0circle.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\obj\Debug\netcoreapp3.0\2.0circle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\obj\Debug\netcoreapp3.0\2.0circle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\obj\Debug\netcoreapp3.0\2.0circle.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\circle\obj\Debug\netcoreapp3.0\2.0circle.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.exe
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.deps.json
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.dll
+C:\Users\Admin\source\repos\Numbers\Numbers\bin\Debug\netcoreapp3.0\Numbers.pdb
+C:\Users\Admin\source\repos\Numbers\Numbers\obj\Debug\netcoreapp3.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Numbers\Numbers\obj\Debug\netcoreapp3.0\Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Numbers\Numbers\obj\Debug\netcoreapp3.0\Numbers.dll
+C:\Users\Admin\source\repos\Numbers\Numbers\obj\Debug\netcoreapp3.0\Numbers.pdb

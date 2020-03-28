@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.exe
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.dll
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\bin\Debug\netcoreapp3.0\mobileOperator.pdb
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\obj\Debug\netcoreapp3.0\mobileOperator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\obj\Debug\netcoreapp3.0\mobileOperator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\obj\Debug\netcoreapp3.0\mobileOperator.dll
+C:\Users\Admin\source\repos\Exam2-3May\mobileOperator\obj\Debug\netcoreapp3.0\mobileOperator.pdb

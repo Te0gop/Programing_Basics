@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.exe
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.dll
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\bin\Debug\netcoreapp3.0\mostPowerfullWord.pdb
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\obj\Debug\netcoreapp3.0\mostPowerfullWord.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\obj\Debug\netcoreapp3.0\mostPowerfullWord.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\obj\Debug\netcoreapp3.0\mostPowerfullWord.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\obj\Debug\netcoreapp3.0\mostPowerfullWord.dll
+C:\Users\Admin\source\repos\Exam6-7july\mostPowerfullWord\obj\Debug\netcoreapp3.0\mostPowerfullWord.pdb

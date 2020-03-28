@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.exe
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.deps.json
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.dll
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\bin\Debug\netcoreapp3.0\summerShopping.pdb
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\obj\Debug\netcoreapp3.0\summerShopping.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\obj\Debug\netcoreapp3.0\summerShopping.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\obj\Debug\netcoreapp3.0\summerShopping.dll
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\obj\Debug\netcoreapp3.0\summerShopping.pdb
+C:\Users\Admin\source\repos\ExamJuly\summerShopping\obj\Debug\netcoreapp3.0\summerShopping.csprojAssemblyReference.cache

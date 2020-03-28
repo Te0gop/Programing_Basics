@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.exe
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.dll
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\bin\Debug\netcoreapp3.0\pcGameShop.pdb
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\obj\Debug\netcoreapp3.0\pcGameShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\obj\Debug\netcoreapp3.0\pcGameShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\obj\Debug\netcoreapp3.0\pcGameShop.dll
+C:\Users\Admin\source\repos\Exam6-7july\pcGameShop\obj\Debug\netcoreapp3.0\pcGameShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.exe
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.deps.json
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.dll
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\bin\Debug\netcoreapp3.0\cleverLily.pdb
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\obj\Debug\netcoreapp3.0\cleverLily.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\obj\Debug\netcoreapp3.0\cleverLily.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\obj\Debug\netcoreapp3.0\cleverLily.dll
+C:\Users\Admin\source\repos\loops-Part2\cleverLily\obj\Debug\netcoreapp3.0\cleverLily.pdb

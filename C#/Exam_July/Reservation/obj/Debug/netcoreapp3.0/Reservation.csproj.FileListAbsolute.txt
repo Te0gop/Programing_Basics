@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.exe
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.deps.json
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.dll
+C:\Users\Admin\source\repos\ExamJuly\Reservation\bin\Debug\netcoreapp3.0\Reservation.pdb
+C:\Users\Admin\source\repos\ExamJuly\Reservation\obj\Debug\netcoreapp3.0\Reservation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamJuly\Reservation\obj\Debug\netcoreapp3.0\Reservation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\Reservation\obj\Debug\netcoreapp3.0\Reservation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\Reservation\obj\Debug\netcoreapp3.0\Reservation.dll
+C:\Users\Admin\source\repos\ExamJuly\Reservation\obj\Debug\netcoreapp3.0\Reservation.pdb

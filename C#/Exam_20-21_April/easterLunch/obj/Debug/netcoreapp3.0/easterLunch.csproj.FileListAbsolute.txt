@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\bin\Debug\netcoreapp3.0\easterLunch.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\obj\Debug\netcoreapp3.0\easterLunch.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\obj\Debug\netcoreapp3.0\easterLunch.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\obj\Debug\netcoreapp3.0\easterLunch.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterLunch\obj\Debug\netcoreapp3.0\easterLunch.pdb

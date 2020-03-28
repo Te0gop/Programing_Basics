@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.exe
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.deps.json
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.dll
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\bin\Debug\netcoreapp3.0\dartsTournament.pdb
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\obj\Debug\netcoreapp3.0\dartsTournament.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\obj\Debug\netcoreapp3.0\dartsTournament.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\obj\Debug\netcoreapp3.0\dartsTournament.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\obj\Debug\netcoreapp3.0\dartsTournament.dll
+C:\Users\Admin\source\repos\ExamJuly\dartsTournament\obj\Debug\netcoreapp3.0\dartsTournament.pdb

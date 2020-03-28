@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.exe
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.dll
+C:\Users\Admin\source\repos\Exam6-7july\renovation\bin\Debug\netcoreapp3.0\renovation.pdb
+C:\Users\Admin\source\repos\Exam6-7july\renovation\obj\Debug\netcoreapp3.0\renovation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam6-7july\renovation\obj\Debug\netcoreapp3.0\renovation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\renovation\obj\Debug\netcoreapp3.0\renovation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\renovation\obj\Debug\netcoreapp3.0\renovation.dll
+C:\Users\Admin\source\repos\Exam6-7july\renovation\obj\Debug\netcoreapp3.0\renovation.pdb

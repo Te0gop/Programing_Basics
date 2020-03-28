@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\bin\Debug\netcoreapp3.0\easterTrip.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\obj\Debug\netcoreapp3.0\easterTrip.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\obj\Debug\netcoreapp3.0\easterTrip.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\obj\Debug\netcoreapp3.0\easterTrip.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterTrip\obj\Debug\netcoreapp3.0\easterTrip.pdb

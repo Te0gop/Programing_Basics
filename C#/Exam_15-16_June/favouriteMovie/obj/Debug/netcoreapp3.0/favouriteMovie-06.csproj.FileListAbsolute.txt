@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.exe
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.dll
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\bin\Debug\netcoreapp3.0\favouriteMovie-06.pdb
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\obj\Debug\netcoreapp3.0\favouriteMovie-06.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\obj\Debug\netcoreapp3.0\favouriteMovie-06.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\obj\Debug\netcoreapp3.0\favouriteMovie-06.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\obj\Debug\netcoreapp3.0\favouriteMovie-06.dll
+C:\Users\Admin\source\repos\Exam15-16June\favouriteMovie\obj\Debug\netcoreapp3.0\favouriteMovie-06.pdb

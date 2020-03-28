@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\bin\Debug\netcoreapp3.0\easterEggs.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\obj\Debug\netcoreapp3.0\easterEggs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\obj\Debug\netcoreapp3.0\easterEggs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\obj\Debug\netcoreapp3.0\easterEggs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\obj\Debug\netcoreapp3.0\easterEggs.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterEggs\obj\Debug\netcoreapp3.0\easterEggs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.exe
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.deps.json
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.runtimeconfig.json
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.dll
+C:\Users\Admin\source\repos\prepareForExam\demo\bin\Debug\netcoreapp3.0\christmasSweets-01.pdb
+C:\Users\Admin\source\repos\prepareForExam\demo\obj\Debug\netcoreapp3.0\christmasSweets-01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\prepareForExam\demo\obj\Debug\netcoreapp3.0\christmasSweets-01.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prepareForExam\demo\obj\Debug\netcoreapp3.0\christmasSweets-01.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prepareForExam\demo\obj\Debug\netcoreapp3.0\christmasSweets-01.dll
+C:\Users\Admin\source\repos\prepareForExam\demo\obj\Debug\netcoreapp3.0\christmasSweets-01.pdb

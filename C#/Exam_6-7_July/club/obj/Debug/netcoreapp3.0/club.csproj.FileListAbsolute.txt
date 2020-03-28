@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.exe
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.dll
+C:\Users\Admin\source\repos\Exam6-7july\club\bin\Debug\netcoreapp3.0\club.pdb
+C:\Users\Admin\source\repos\Exam6-7july\club\obj\Debug\netcoreapp3.0\club.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam6-7july\club\obj\Debug\netcoreapp3.0\club.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\club\obj\Debug\netcoreapp3.0\club.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\club\obj\Debug\netcoreapp3.0\club.dll
+C:\Users\Admin\source\repos\Exam6-7july\club\obj\Debug\netcoreapp3.0\club.pdb

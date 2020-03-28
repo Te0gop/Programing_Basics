@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.exe
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.deps.json
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.runtimeconfig.json
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\bin\Debug\netcoreapp3.0\Greetings.pdb
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\obj\Debug\netcoreapp3.0\Greetings.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\obj\Debug\netcoreapp3.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\obj\Debug\netcoreapp3.0\Greetings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\obj\Debug\netcoreapp3.0\Greetings.dll
+C:\Users\Admin\source\repos\Simple-Calculation\Greetings\obj\Debug\netcoreapp3.0\Greetings.pdb

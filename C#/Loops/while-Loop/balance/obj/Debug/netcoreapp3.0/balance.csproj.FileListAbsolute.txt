@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.exe
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.deps.json
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.dll
+C:\Users\Admin\source\repos\while-Loop\balance\bin\Debug\netcoreapp3.0\balance.pdb
+C:\Users\Admin\source\repos\while-Loop\balance\obj\Debug\netcoreapp3.0\balance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\balance\obj\Debug\netcoreapp3.0\balance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\balance\obj\Debug\netcoreapp3.0\balance.dll
+C:\Users\Admin\source\repos\while-Loop\balance\obj\Debug\netcoreapp3.0\balance.pdb

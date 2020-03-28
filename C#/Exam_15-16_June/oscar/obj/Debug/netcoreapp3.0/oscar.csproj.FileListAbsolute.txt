@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.exe
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.deps.json
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.dll
+C:\Users\Admin\source\repos\Exam15-16June\oscar\bin\Debug\netcoreapp3.0\oscar.pdb
+C:\Users\Admin\source\repos\Exam15-16June\oscar\obj\Debug\netcoreapp3.0\oscar.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam15-16June\oscar\obj\Debug\netcoreapp3.0\oscar.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam15-16June\oscar\obj\Debug\netcoreapp3.0\oscar.dll
+C:\Users\Admin\source\repos\Exam15-16June\oscar\obj\Debug\netcoreapp3.0\oscar.pdb

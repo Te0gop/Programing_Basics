@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.exe
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.deps.json
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.runtimeconfig.json
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\bin\Debug\netcoreapp3.0\numberPyramid.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\obj\Debug\netcoreapp3.0\numberPyramid.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\obj\Debug\netcoreapp3.0\numberPyramid.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\obj\Debug\netcoreapp3.0\numberPyramid.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\obj\Debug\netcoreapp3.0\numberPyramid.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\numberPyramid\obj\Debug\netcoreapp3.0\numberPyramid.pdb

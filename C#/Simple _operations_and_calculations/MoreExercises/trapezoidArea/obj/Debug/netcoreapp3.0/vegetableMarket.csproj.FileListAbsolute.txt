@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.exe
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.deps.json
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.dll
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\bin\Debug\netcoreapp3.0\vegetableMarket.pdb
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\obj\Debug\netcoreapp3.0\vegetableMarket.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\obj\Debug\netcoreapp3.0\vegetableMarket.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\obj\Debug\netcoreapp3.0\vegetableMarket.dll
+C:\Users\Admin\source\repos\MoreExercises\trapezoidArea\obj\Debug\netcoreapp3.0\vegetableMarket.pdb

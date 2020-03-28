@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.exe
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.deps.json
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.dll
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\bin\Debug\netcoreapp3.0\characterFlow.pdb
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\obj\Debug\netcoreapp3.0\characterFlow.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\obj\Debug\netcoreapp3.0\characterFlow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\obj\Debug\netcoreapp3.0\characterFlow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\obj\Debug\netcoreapp3.0\characterFlow.dll
+C:\Users\Admin\source\repos\loops-Part2\characterFlow\obj\Debug\netcoreapp3.0\characterFlow.pdb

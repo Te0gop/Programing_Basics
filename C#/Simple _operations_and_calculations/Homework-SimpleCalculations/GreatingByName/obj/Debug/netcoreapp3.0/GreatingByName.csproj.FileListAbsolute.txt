@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\bin\Debug\netcoreapp3.0\GreatingByName.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\obj\Debug\netcoreapp3.0\GreatingByName.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\obj\Debug\netcoreapp3.0\GreatingByName.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\obj\Debug\netcoreapp3.0\GreatingByName.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\obj\Debug\netcoreapp3.0\GreatingByName.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\GreatingByName\obj\Debug\netcoreapp3.0\GreatingByName.pdb

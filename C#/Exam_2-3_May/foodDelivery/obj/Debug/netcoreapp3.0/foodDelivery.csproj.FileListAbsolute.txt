@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.exe
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.dll
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\bin\Debug\netcoreapp3.0\foodDelivery.pdb
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\obj\Debug\netcoreapp3.0\foodDelivery.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\obj\Debug\netcoreapp3.0\foodDelivery.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\obj\Debug\netcoreapp3.0\foodDelivery.dll
+C:\Users\Admin\source\repos\Exam2-3May\foodDelivery\obj\Debug\netcoreapp3.0\foodDelivery.pdb

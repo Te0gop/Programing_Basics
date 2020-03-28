@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.exe
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.deps.json
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.dll
+C:\Users\Admin\source\repos\Checks\WriteNumber\bin\Debug\netcoreapp3.0\WriteNumber.pdb
+C:\Users\Admin\source\repos\Checks\WriteNumber\obj\Debug\netcoreapp3.0\WriteNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Checks\WriteNumber\obj\Debug\netcoreapp3.0\WriteNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Checks\WriteNumber\obj\Debug\netcoreapp3.0\WriteNumber.dll
+C:\Users\Admin\source\repos\Checks\WriteNumber\obj\Debug\netcoreapp3.0\WriteNumber.pdb

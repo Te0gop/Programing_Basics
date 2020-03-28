@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.exe
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.deps.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.runtimeconfig.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\bin\Debug\netcoreapp3.0\Concatenate-Data.pdb
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\obj\Debug\netcoreapp3.0\Concatenate-Data.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\obj\Debug\netcoreapp3.0\Concatenate-Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\obj\Debug\netcoreapp3.0\Concatenate-Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\obj\Debug\netcoreapp3.0\Concatenate-Data.dll
+C:\Users\Admin\source\repos\Homework-SimpleCalculations\Concatenate-Data\obj\Debug\netcoreapp3.0\Concatenate-Data.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.exe
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.dll
+C:\Users\Admin\source\repos\Exam2-3May\safari\bin\Debug\netcoreapp3.0\safari.pdb
+C:\Users\Admin\source\repos\Exam2-3May\safari\obj\Debug\netcoreapp3.0\safari.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\safari\obj\Debug\netcoreapp3.0\safari.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\safari\obj\Debug\netcoreapp3.0\safari.dll
+C:\Users\Admin\source\repos\Exam2-3May\safari\obj\Debug\netcoreapp3.0\safari.pdb

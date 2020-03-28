@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.exe
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.deps.json
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.runtimeconfig.json
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.dll
+C:\Users\Admin\source\repos\4angles\4angles\bin\Debug\netcoreapp3.0\4angles.pdb
+C:\Users\Admin\source\repos\4angles\4angles\obj\Debug\netcoreapp3.0\4angles.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\4angles\4angles\obj\Debug\netcoreapp3.0\4angles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4angles\4angles\obj\Debug\netcoreapp3.0\4angles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4angles\4angles\obj\Debug\netcoreapp3.0\4angles.dll
+C:\Users\Admin\source\repos\4angles\4angles\obj\Debug\netcoreapp3.0\4angles.pdb

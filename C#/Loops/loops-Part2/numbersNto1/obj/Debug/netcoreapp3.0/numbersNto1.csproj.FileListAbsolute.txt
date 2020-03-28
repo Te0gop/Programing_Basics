@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.exe
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.deps.json
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.runtimeconfig.json
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.dll
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\bin\Debug\netcoreapp3.0\numbersNto1.pdb
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\obj\Debug\netcoreapp3.0\numbersNto1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\obj\Debug\netcoreapp3.0\numbersNto1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\obj\Debug\netcoreapp3.0\numbersNto1.dll
+C:\Users\Admin\source\repos\loops-Part2\numbersNto1\obj\Debug\netcoreapp3.0\numbersNto1.pdb

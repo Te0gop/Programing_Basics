@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.exe
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.dll
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\bin\Debug\netcoreapp3.0\NumberInRange.pdb
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.dll
+C:\Users\Admin\source\repos\ifsTuesday\NumberInRange\obj\Debug\netcoreapp3.0\NumberInRange.pdb

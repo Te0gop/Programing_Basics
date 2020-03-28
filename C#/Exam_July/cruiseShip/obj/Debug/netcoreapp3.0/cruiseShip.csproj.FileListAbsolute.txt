@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.exe
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.deps.json
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.dll
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\bin\Debug\netcoreapp3.0\cruiseShip.pdb
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\obj\Debug\netcoreapp3.0\cruiseShip.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\obj\Debug\netcoreapp3.0\cruiseShip.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\obj\Debug\netcoreapp3.0\cruiseShip.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\obj\Debug\netcoreapp3.0\cruiseShip.dll
+C:\Users\Admin\source\repos\ExamJuly\cruiseShip\obj\Debug\netcoreapp3.0\cruiseShip.pdb

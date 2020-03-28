@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.exe
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.deps.json
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.runtimeconfig.json
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.dll
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\bin\Debug\netcoreapp3.0\christmasMarket.pdb
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\obj\Debug\netcoreapp3.0\christmasMarket.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\obj\Debug\netcoreapp3.0\christmasMarket.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\obj\Debug\netcoreapp3.0\christmasMarket.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\obj\Debug\netcoreapp3.0\christmasMarket.dll
+C:\Users\Admin\source\repos\prepareForExam\christmasMarket\obj\Debug\netcoreapp3.0\christmasMarket.pdb

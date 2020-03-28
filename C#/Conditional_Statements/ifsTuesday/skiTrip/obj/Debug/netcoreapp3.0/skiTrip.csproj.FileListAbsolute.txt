@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.exe
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.dll
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\bin\Debug\netcoreapp3.0\skiTrip.pdb
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\obj\Debug\netcoreapp3.0\skiTrip.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\obj\Debug\netcoreapp3.0\skiTrip.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\obj\Debug\netcoreapp3.0\skiTrip.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\obj\Debug\netcoreapp3.0\skiTrip.dll
+C:\Users\Admin\source\repos\ifsTuesday\skiTrip\obj\Debug\netcoreapp3.0\skiTrip.pdb

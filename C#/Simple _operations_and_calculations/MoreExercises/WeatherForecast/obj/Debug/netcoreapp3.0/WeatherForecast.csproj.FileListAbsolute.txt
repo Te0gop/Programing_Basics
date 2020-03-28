@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.AssemblyInfo.cs

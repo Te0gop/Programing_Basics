@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.exe
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.deps.json
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.runtimeconfig.json
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.dll
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\bin\Debug\netcoreapp3.0\graduationPart2.pdb
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\obj\Debug\netcoreapp3.0\graduationPart2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\obj\Debug\netcoreapp3.0\graduationPart2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\obj\Debug\netcoreapp3.0\graduationPart2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\obj\Debug\netcoreapp3.0\graduationPart2.dll
+C:\Users\Admin\source\repos\while-Loop\graduationPart2\obj\Debug\netcoreapp3.0\graduationPart2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).exe
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).deps.json
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).runtimeconfig.json
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).dll
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\bin\Debug\netcoreapp3.0\travelling-05-while(for).pdb
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\obj\Debug\netcoreapp3.0\travelling-05-while(for).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\obj\Debug\netcoreapp3.0\travelling-05-while(for).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\obj\Debug\netcoreapp3.0\travelling-05-while(for).AssemblyInfo.cs
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\obj\Debug\netcoreapp3.0\travelling-05-while(for).dll
+C:\Users\Admin\source\repos\nested-loops\travelling-05another\obj\Debug\netcoreapp3.0\travelling-05-while(for).pdb

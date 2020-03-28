@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.exe
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.deps.json
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.runtimeconfig.json
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\bin\Debug\netcoreapp3.0\calendar-demo.pdb
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\obj\Debug\netcoreapp3.0\calendar-demo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\obj\Debug\netcoreapp3.0\calendar-demo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\obj\Debug\netcoreapp3.0\calendar-demo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\obj\Debug\netcoreapp3.0\calendar-demo.dll
+C:\Users\Admin\source\repos\nestedLoops-lab\calendar-demo\obj\Debug\netcoreapp3.0\calendar-demo.pdb

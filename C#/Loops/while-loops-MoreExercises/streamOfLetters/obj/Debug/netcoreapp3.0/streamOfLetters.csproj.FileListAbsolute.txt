@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.exe
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.deps.json
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.runtimeconfig.json
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.dll
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\bin\Debug\netcoreapp3.0\streamOfLetters.pdb
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\obj\Debug\netcoreapp3.0\streamOfLetters.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\obj\Debug\netcoreapp3.0\streamOfLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\obj\Debug\netcoreapp3.0\streamOfLetters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\obj\Debug\netcoreapp3.0\streamOfLetters.dll
+C:\Users\Admin\source\repos\while-loops-MoreExercises\streamOfLetters\obj\Debug\netcoreapp3.0\streamOfLetters.pdb

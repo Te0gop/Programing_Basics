@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.exe
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.deps.json
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.runtimeconfig.json
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.dll
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\bin\Debug\netcoreapp3.0\trainingLab.pdb
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\obj\Debug\netcoreapp3.0\trainingLab.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\obj\Debug\netcoreapp3.0\trainingLab.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\obj\Debug\netcoreapp3.0\trainingLab.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\obj\Debug\netcoreapp3.0\trainingLab.dll
+C:\Users\Admin\source\repos\MoreExercises\trainingLab\obj\Debug\netcoreapp3.0\trainingLab.pdb

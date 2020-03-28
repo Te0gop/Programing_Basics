@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.exe
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.deps.json
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.dll
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\bin\Debug\netcoreapp3.0\invalidNumber.pdb
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\obj\Debug\netcoreapp3.0\invalidNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\obj\Debug\netcoreapp3.0\invalidNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\obj\Debug\netcoreapp3.0\invalidNumber.dll
+C:\Users\Admin\source\repos\ifsTuesday\invalidNumber\obj\Debug\netcoreapp3.0\invalidNumber.pdb

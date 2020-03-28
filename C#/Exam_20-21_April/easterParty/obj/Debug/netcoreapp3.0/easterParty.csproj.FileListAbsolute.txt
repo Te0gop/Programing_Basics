@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.exe
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.deps.json
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\bin\Debug\netcoreapp3.0\easterParty.pdb
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\obj\Debug\netcoreapp3.0\easterParty.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\obj\Debug\netcoreapp3.0\easterParty.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\obj\Debug\netcoreapp3.0\easterParty.dll
+C:\Users\Admin\source\repos\Exam20-21april\easterParty\obj\Debug\netcoreapp3.0\easterParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.exe
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.deps.json
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.dll
+C:\Users\Admin\source\repos\Exam6-7july\repeating\bin\Debug\netcoreapp3.0\repeanting.pdb
+C:\Users\Admin\source\repos\Exam6-7july\repeating\obj\Debug\netcoreapp3.0\repeanting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam6-7july\repeating\obj\Debug\netcoreapp3.0\repeanting.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam6-7july\repeating\obj\Debug\netcoreapp3.0\repeanting.dll
+C:\Users\Admin\source\repos\Exam6-7july\repeating\obj\Debug\netcoreapp3.0\repeanting.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.exe
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.deps.json
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.runtimeconfig.json
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.dll
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\bin\Debug\netcoreapp3.0\bestPlaneTickets.pdb
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\obj\Debug\netcoreapp3.0\bestPlaneTickets.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\obj\Debug\netcoreapp3.0\bestPlaneTickets.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\obj\Debug\netcoreapp3.0\bestPlaneTickets.dll
+C:\Users\Admin\source\repos\ExamJuly\bestPlaneTickets\obj\Debug\netcoreapp3.0\bestPlaneTickets.pdb

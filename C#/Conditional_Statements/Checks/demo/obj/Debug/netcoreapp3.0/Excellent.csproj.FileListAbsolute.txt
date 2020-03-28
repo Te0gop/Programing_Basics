@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.exe
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.deps.json
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.runtimeconfig.json
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.dll
+C:\Users\Admin\source\repos\Checks\demo\bin\Debug\netcoreapp3.0\Excellent.pdb
+C:\Users\Admin\source\repos\Checks\demo\obj\Debug\netcoreapp3.0\Excellent.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Checks\demo\obj\Debug\netcoreapp3.0\Excellent.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Checks\demo\obj\Debug\netcoreapp3.0\Excellent.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Checks\demo\obj\Debug\netcoreapp3.0\Excellent.dll
+C:\Users\Admin\source\repos\Checks\demo\obj\Debug\netcoreapp3.0\Excellent.pdb

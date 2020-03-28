@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.exe
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.deps.json
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.runtimeconfig.json
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.dll
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\bin\Debug\netcoreapp3.0\AreaOfFigures.pdb
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.dll
+C:\Users\Admin\source\repos\Checks\AreaOfFigures\obj\Debug\netcoreapp3.0\AreaOfFigures.pdb

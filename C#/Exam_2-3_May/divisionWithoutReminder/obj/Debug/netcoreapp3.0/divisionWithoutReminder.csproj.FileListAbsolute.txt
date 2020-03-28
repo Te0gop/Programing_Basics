@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.exe
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.deps.json
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.dll
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\bin\Debug\netcoreapp3.0\divisionWithoutReminder.pdb
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\obj\Debug\netcoreapp3.0\divisionWithoutReminder.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\obj\Debug\netcoreapp3.0\divisionWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\obj\Debug\netcoreapp3.0\divisionWithoutReminder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\obj\Debug\netcoreapp3.0\divisionWithoutReminder.dll
+C:\Users\Admin\source\repos\Exam2-3May\divisionWithoutReminder\obj\Debug\netcoreapp3.0\divisionWithoutReminder.pdb
